@@ -1,6 +1,6 @@
 # Book Management App v2
 
-Simple Book management using (Google Book API)[https://developers.google.com/books/docs/v1/using].
+Simple Book management using [Google Book API](https://developers.google.com/books/docs/v1/using).
 
 ## Versions
 
